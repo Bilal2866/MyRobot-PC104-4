@@ -1,7 +1,7 @@
 # STM32 PC-104 Robotic Control System
 
 <p align="center">
-  <img src="Images/assembled-pcb.jpg" width="600">
+  <img src="assembled%20pcb.png" width="600">
 </p>
 
 ## Project Overview
